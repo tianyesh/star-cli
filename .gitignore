@@ -1,0 +1,16 @@
+*.log*
+.cache
+.DS_Store
+.idea
+.vscode
+
+# npm
+node_modules
+
+# test
+/coverage
+/test/.temp
+
+package-lock.json
+yarn.lock
+
